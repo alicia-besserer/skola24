@@ -1,0 +1,6 @@
+@skola24_HostAddress = http://localhost:5025
+
+GET {{skola24_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
